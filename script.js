@@ -1,6 +1,5 @@
 function showTopic(topic) {
   const output = document.getElementById("output");
-
   if (topic === "binary") {
     output.innerHTML = `
       <strong>Binary Numbers</strong><br>
