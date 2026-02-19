@@ -7,7 +7,6 @@ function showTopic(topic) {
       electronic circuits work using ON (1) and OFF (0) states.
     `;
   }
-
   else if (topic === "algorithm") {
     output.innerHTML = `
       <strong>Algorithm</strong><br>
