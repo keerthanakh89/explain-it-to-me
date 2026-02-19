@@ -28,7 +28,6 @@ function showTopic(topic) {
       and manage large amounts of data efficiently.
     `;
   }
-
   else if (topic === "os") {
     output.innerHTML = `
       <strong>Operating System</strong><br>
